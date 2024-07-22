@@ -1,0 +1,71 @@
+CRITICAL - 2022-10-24 15:01:08 --> Call to undefined method App\Models\CuentaModel::eliminarBanco
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(106): CodeIgniter\Model->__call('eliminarBanco', Array)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->bajaCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-24 15:05:34 --> Call to undefined method App\Models\CuentaModel::eliminarBanco
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(106): CodeIgniter\Model->__call('eliminarBanco', Array)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->bajaCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-24 15:08:23 --> Call to undefined method App\Models\CuentaModel::eliminarBanco
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(106): CodeIgniter\Model->__call('eliminarBanco', Array)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->bajaCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-10-24 15:10:52 --> Unknown column 'idBanco' in 'where clause'
+CRITICAL - 2022-10-24 15:10:52 --> Unknown column 'idBanco' in 'where clause'
+#0 C:\xampp\htdocs\Ej4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE cuenta S...', 0)
+#1 C:\xampp\htdocs\Ej4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE cuenta S...')
+#2 C:\xampp\htdocs\Ej4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE cuenta S...')
+#3 C:\xampp\htdocs\Ej4\app\Models\CuentaModel.php(42): CodeIgniter\Database\BaseConnection->query('UPDATE cuenta S...')
+#4 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(106): App\Models\CuentaModel->eliminarCuenta('14')
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->bajaCuenta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-24 15:19:23 --> Undefined variable $confirmacionBanco
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminAltaCuenta.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(18): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->indexAlta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-24 15:25:51 --> Undefined variable $confirmacionBanco
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminAltaCuenta.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(18): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->indexAlta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-24 16:24:08 --> Invalid file: VistasComunidadBancaria/adminListadoBanco.php
+#0 C:\xampp\htdocs\Ej4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasComunidad...')
+#1 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#2 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(90): view('VistasComunidad...', Array)
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->indexConsulta()
+#4 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-24 19:16:13 --> Call to undefined method App\Models\BancoModel::BuscarClientesidYBancoid
+#0 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(93): CodeIgniter\Model->__call('BuscarClientesi...', Array)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->indexConsulta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

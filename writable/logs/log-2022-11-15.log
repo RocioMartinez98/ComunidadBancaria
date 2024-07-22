@@ -1,0 +1,140 @@
+CRITICAL - 2022-11-15 14:20:59 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:24:47 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:25:10 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:25:14 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 187)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:33:59 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 166)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:34:40 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 166)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:35:01 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 166)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 14:38:43 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaUsuario()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 15:12:47 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 15:13:34 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 17:22:16 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 18:51:31 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(265): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 265)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->mostrarConsulta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 19:38:10 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 19:46:01 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 19:46:15 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 19:46:43 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 120)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->mostrarConsulta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 20:25:46 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 20:29:47 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(183): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 183)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 20:48:04 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(183): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 183)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-15 20:48:12 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(183): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 183)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

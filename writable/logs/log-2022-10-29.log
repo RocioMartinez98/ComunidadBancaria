@@ -1,0 +1,56 @@
+CRITICAL - 2022-10-29 22:36:18 --> Undefined array key "Cu_Numero"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 165)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:36:26 --> Undefined array key "Cu_Numero"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(165): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 165)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:39:17 --> Undefined array key "Cu_Tipo"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 166)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:40:09 --> Undefined array key "Cu_Tipo"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(167): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 167)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:40:13 --> Undefined array key "Cu_Tipo"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(167): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 167)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:45:06 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(168): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 168)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 22:45:48 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 169)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarMuestraCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-29 23:08:27 --> Undefined array key "numerocuenta"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\CuentaControlador.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\CuentaControlador->modificarCuenta()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CuentaControlador))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

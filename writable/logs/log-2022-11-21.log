@@ -1,0 +1,21 @@
+CRITICAL - 2022-11-21 07:36:19 --> Undefined array key "dnicliente"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(272): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 272)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->modificaCliente()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-21 07:40:51 --> Undefined array key "dnicliente"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(272): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 272)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->modificaCliente()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-21 07:47:36 --> Undefined array key "banco"
+#0 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 150)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaMuestraBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

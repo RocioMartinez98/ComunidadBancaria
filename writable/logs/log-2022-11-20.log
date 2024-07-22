@@ -1,0 +1,84 @@
+CRITICAL - 2022-11-20 13:57:03 --> Undefined variable $arreglo
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorInicio.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorInicio->login()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorInicio))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-20 14:33:50 --> Call to undefined method App\Models\ClienteModel::consultaBanc
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(199): CodeIgniter\Model->__call('consultaBanc', Array)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->consultaBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-20 17:15:34 --> view(): Argument #2 ($data) must be of type array, string given, called in C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php on line 242
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(242): view('VistasComunidad...', '34454800')
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->modificarMuestraCliente()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-20 17:57:20 --> CodeIgniter\Model::__construct(): Argument #1 ($db) must be of type ?CodeIgniter\Database\ConnectionInterface, mysqli given, called in C:\xampp\htdocs\Ej4\app\Controllers\Banco.php on line 165
+#0 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(165): CodeIgniter\Model->__construct(Object(mysqli))
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaMuestraBanco()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-11-20 17:59:14 --> Undefined variable $cuentas
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminModificarCuenta.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(168): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaMuestraBanco()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-20 18:03:02 --> Undefined variable $datoBanco
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminModificarBanco.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(214): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaBanco()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-20 18:04:26 --> Undefined variable $datoBanco
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminModificarBanco.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(214): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaBanco()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-20 18:06:04 --> Undefined variable $datoBanco
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminModificarBanco.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(214): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaBanco()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-11-20 18:26:09 --> Duplicate entry '1-4' for key 'PRIMARY'
+CRITICAL - 2022-11-20 18:26:09 --> Duplicate entry '1-4' for key 'PRIMARY'
+#0 C:\xampp\htdocs\Ej4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE banco SE...', 0)
+#1 C:\xampp\htdocs\Ej4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE banco SE...')
+#2 C:\xampp\htdocs\Ej4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE banco SE...')
+#3 C:\xampp\htdocs\Ej4\app\Models\BancoModel.php(104): CodeIgniter\Database\BaseConnection->query('UPDATE banco SE...')
+#4 C:\xampp\htdocs\Ej4\app\Controllers\Banco.php(213): App\Models\BancoModel->modificarBanco('1', '4', 'San Martin 975')
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\Banco->modificaBanco()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Banco))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

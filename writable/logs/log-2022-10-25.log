@@ -1,0 +1,234 @@
+CRITICAL - 2022-10-25 18:26:02 --> Invalid file: VistasComunidadBancaria/adminListadoClientes.php
+#0 C:\xampp\htdocs\Ej4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasComunidad...')
+#1 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#2 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#4 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-25 18:30:43 --> Invalid file: VistasComunidadBancaria/adminListadoClientes.php
+#0 C:\xampp\htdocs\Ej4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasComunidad...')
+#1 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#2 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#4 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-25 18:31:24 --> Invalid file: VistasComunidadBancaria/adminListadoClientes.php
+#0 C:\xampp\htdocs\Ej4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasComunidad...')
+#1 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#2 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#4 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-25 18:31:53 --> Invalid file: VistasComunidadBancaria/adminListadoClientes.php
+#0 C:\xampp\htdocs\Ej4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('VistasComunidad...')
+#1 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#2 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#4 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-25 18:32:58 --> Undefined variable $clientes
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 18:33:16 --> Undefined variable $clientes
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(125): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:01:57 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:14:04 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:14:43 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:17:54 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:22:56 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:35:19 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 21:35:41 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 22:27:33 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...')
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 22:28:06 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...')
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 22:31:46 --> Undefined variable $cuenta
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(117): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->indexConsulta()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 22:32:11 --> Undefined property: App\Controllers\ControladorCliente::$db
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 124)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 22:32:16 --> Undefined property: App\Controllers\ControladorCliente::$db
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 124)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 22:54:36 --> Undefined property: App\Controllers\ControladorCliente::$db
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 127)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 22:55:23 --> Undefined property: App\Controllers\ControladorCliente::$load
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 133)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 22:55:53 --> Undefined variable $cliente
+#0 C:\xampp\htdocs\Ej4\app\Views\VistasComunidadBancaria\adminListadoClientes.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 81)
+#1 C:\xampp\htdocs\Ej4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Ej4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Ej4\system\Common.php(1089): CodeIgniter\View\View->render('VistasComunidad...', Array, true)
+#4 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(133): view('VistasComunidad...', Array)
+#5 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#6 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#7 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-25 22:57:33 --> Object of class mysqli_result could not be converted to string
+#0 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-10-25 23:13:32 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 141)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 23:14:16 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 141)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-25 23:17:37 --> Array to string conversion
+#0 C:\xampp\htdocs\Ej4\app\Controllers\ControladorCliente.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 141)
+#1 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(832): App\Controllers\ControladorCliente->creari()
+#2 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorCliente))
+#3 C:\xampp\htdocs\Ej4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Ej4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
